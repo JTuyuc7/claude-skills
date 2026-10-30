@@ -1,0 +1,7 @@
+{
+  "name": "ticket-plan",
+  "description": "Lightweight cross-repo work journal: one plan.md per ticket, updated at start, PR created, merged and review comments.",
+  "version": "0.1.0",
+  "author": { "name": "Jaime Tuyuc" },
+  "keywords": ["workflow", "journal", "tickets"]
+}

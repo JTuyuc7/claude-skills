@@ -1,0 +1,7 @@
+{
+  "name": "pr-summary",
+  "description": "Consistent English PR descriptions (Summary + Test plan) built from the branch's real diff and the checks actually run.",
+  "version": "0.1.0",
+  "author": { "name": "Jaime Tuyuc" },
+  "keywords": ["git", "pull-request", "documentation"]
+}

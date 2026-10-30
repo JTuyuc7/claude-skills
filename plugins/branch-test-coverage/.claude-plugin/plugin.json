@@ -1,0 +1,7 @@
+{
+  "name": "branch-test-coverage",
+  "description": "Writes unit tests for the lines changed on your branch, following the repo's existing test patterns. Touches test files only.",
+  "version": "0.1.1",
+  "author": { "name": "Jaime Tuyuc" },
+  "keywords": ["testing", "coverage", "jest", "vitest"]
+}
