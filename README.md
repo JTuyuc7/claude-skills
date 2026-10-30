@@ -9,7 +9,7 @@ They work in any repo and follow the same rules: output is always in English (so
 In Claude Code:
 
 ```
-/plugin marketplace add TuyucJaime/claude-skills
+/plugin marketplace add JTuyuc7/claude-skills
 ```
 
 Then install the ones you want:
