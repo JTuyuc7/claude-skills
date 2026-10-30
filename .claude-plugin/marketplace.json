@@ -7,17 +7,17 @@
   "plugins": [
     {
       "name": "pr-summary",
-      "source": "./plugins/pr-summary",
+      "path": "./plugins/pr-summary",
       "description": "Consistent English PR descriptions (Summary + Test plan) built from the branch's real diff."
     },
     {
       "name": "ticket-plan",
-      "source": "./plugins/ticket-plan",
+      "path": "./plugins/ticket-plan",
       "description": "Cross-repo work journal: one plan.md per ticket, kept up to date through its lifecycle."
     },
     {
       "name": "branch-test-coverage",
-      "source": "./plugins/branch-test-coverage",
+      "path": "./plugins/branch-test-coverage",
       "description": "Unit tests for the lines changed on your branch, following the repo's test patterns. Test files only."
     }
   ]
